@@ -1,4 +1,4 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/heroku/node-js-getting-started)   
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kvrbotkvr/EvaMaria.git)   
    
 <p align="center">
   <img src="assets/logo.jpg" alt="Eva Maria Logo">
